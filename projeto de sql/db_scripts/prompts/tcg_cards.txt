@@ -1,0 +1,24 @@
+ação
+create a script to create a table in postgreesql
+context
+the first tables is a table to save a pokemon tcg cards
+the second table is a table to save a collections set
+informações
+first table:
+- id
+- hp
+- name
+- stage
+- type
+- info
+- attack
+- dammage
+- weak
+- ressis
+- retreat
+- cardnumberincollection
+the second table:
+- id 
+-collectionSetName
+-release date
+-totalcardsincollection
